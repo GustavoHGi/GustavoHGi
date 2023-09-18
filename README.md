@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Hernandez</h1>
 <h3 align="center">A passionate the programming from México</h3>
 
-- Hola soy Técnico en Programación de **Cecutem**
+- Hola soy Técnico en Programación de **Cecytem**
 
 - 👯 I’m looking to collaborate with **Cecytem**
 
